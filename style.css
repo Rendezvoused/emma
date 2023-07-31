@@ -1,0 +1,5 @@
+body {background-color:#0000;}
+a { 
+  transition: background-size .4s ease;
+  color:#2b2122dd;
+  text-decoration: none;}
